@@ -1,6 +1,6 @@
 <h4 align="center">
 
-### Olá! eu sou o Douglas! Formando em Engenharia de Software e Desenvolvedor ReactJs, React Native e NodeJs
+### Olá! eu sou o Douglas! Formando em Engenharia de Software e Desenvolvedor ReactJs, React Native e Backend com NodeJs e Java com Spring Boot
 
 Apaixonado por resolver problemas e ajudar as pessoas, encontrei na área de tecnologia a possibilidade de desenvolver soluções que facilitem nosso dia a dia e ajudem as pessoas.
 
