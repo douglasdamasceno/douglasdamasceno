@@ -1,6 +1,6 @@
 <h4 align="center">
 
-### Olá! eu sou o Douglas! Formando em Engenharia de Software e Desenvolvedor ReactJs, React Native e Backend com NodeJs e Java com Spring Boot
+### Olá! Desenvolvedor ReactJs, React Native e Backend com NodeJs e Java com Spring Boot
  <br/>  
 <div align="center" style="display:flex">
   
