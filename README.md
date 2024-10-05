@@ -4,8 +4,6 @@
  <br/>  
 <div align="center" style="display:flex">
   
-![](https://github-readme-stats.vercel.app/api?username=douglasdamasceno&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=douglasdamasceno&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdamasceno&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  </div>
   
@@ -38,13 +36,6 @@
   
   <br />
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=douglasdamasceno&theme=gotham&hide_border=true&area=true)
-  
- ## 🏆GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douglasdamasceno&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-<div> 
  
   ## 🌐 Entre em contato comigo! 
 <div style="display: flex; gap:10px;"> <br>
