@@ -1,7 +1,6 @@
 <h4 align="center">
 
-### Olá!
- <br/>  
+
 <div align="center" style="display:flex">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdamasceno&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -29,7 +28,6 @@
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
   
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
   <br />
